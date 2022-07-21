@@ -16,7 +16,8 @@ import Layout from '../components/layout'
 const AboutPage = () => {
   return (
     <Layout pageTitle="About Me">
-      <p>About child passed in zzz</p>
+      <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
+      <p>I'm not actually proud of it since its just copy paste XD</p>
     </Layout>
   )
 }
